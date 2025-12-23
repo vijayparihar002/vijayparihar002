@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Vijay+Parihar+👋;Full+Stack+Developer+%F0%9F%9A%80;UI%2FUX+Designer+%F0%9F%8E%A8;Tech+Lover+%F0%9F%92%BB;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</p>
+</p> 
 
 ---
 
